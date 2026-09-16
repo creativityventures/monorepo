@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce fork propose un parcours documentaire en français consacré à Connext : communication généralisée, transferts inter-chaînes, routeurs, vérification et relai. Le sommaire et les chapitres sont disponibles dans [docs/fr/](./docs/fr/).
+
 <div align="center">
   <!-- PROJECT LOGO -->
   <a href="https://github.com/connext/monorepo">
